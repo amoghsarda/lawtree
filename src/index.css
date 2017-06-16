@@ -1,0 +1,74 @@
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css");
+
+body {
+  font: 20px "Circular Pro", Futura, sans-serif;
+  color: #535353;
+  margin: 20px;
+}
+
+h2 {
+  font: 25px "Circular Pro", Futura, sans-serif;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.headingLogo > h2 {
+  margin-bottom: 70px;
+}
+
+img.logo {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.info-image > img {
+  margin-top: 40px;
+  width: 100px;
+}
+
+.info-text {
+  margin-top: 20px;
+  margin-bottom:40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.waitlist {
+  text-align: center;
+}
+
+.panel {
+  background-color: #88d8b0;
+}
+
+div.headingLogo {
+  text-align: center;
+}
+
+.waitlist > h2 {
+  margin-bottom: 20px;
+  margin-top: 75px;
+}
+
+.textbox {
+  -moz-border-radius-topleft: 30px;
+  -webkit-border-top-left-radius: 30px;
+  border-top-left-radius: 30px;
+  -moz-border-radius-bottomleft: 30px;
+  -webkit-border-bottom-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border: 1px solid #848484;
+  outline:0; 
+  height:35px; 
+  width: 20%; 
+  padding: 10px 10px 10px 10px;
+} 
+
+.submit {
+    border: none;
+    text-align: center;
+    background-color: #88d8b0; /* Green */
+    padding: 5px 10px 5px 10px;
+}
